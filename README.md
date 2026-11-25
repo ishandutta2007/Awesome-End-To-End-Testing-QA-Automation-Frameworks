@@ -1,70 +1,54 @@
 # Awesome-End-To-End-Testing-QA-Automation-Frameworks
 
 <p align="center">
-
   <img src="./assets/banner.svg" alt="Top End-to-End Testing & QA Automation Frameworks" width="100%" />
-
 </p>
-
-
 
 <p align="center">
-
-  <a href="https://github.com"><img src="https://shields.io" alt="Awesome"/></a>
-
-  <a href="https://discord.gg"><img src="https://shields.io" alt="Discord" /></a>
-
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub stars" /></a>
-
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub forks" /></a>
-
-  <a href="https://github.com"><img alt="GitHub followers" src="https://shields.io" /></a>
-
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
-
-
 
 # 🧪 Top End-to-End Testing & QA Automation Frameworks
 
+**A Comprehensive, Curated Directory of SaaS Platforms & Open-Source Projects for Modern Software Quality Assurance**  
+*Covering Cross-Browser & Mobile E2E Automation, Scalable Cloud Device Grids, Visual AI Regression Testing, Self-Healing Autonomous Test Agents, and Self-Hosted Selenium/Playwright Infrastructure*  
 
+📅 **Last updated: November 2026** • ⚡ **Production-Ready & Community-Vetted**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+---
 
-*Focused on Browser & Mobile E2E Automation, Parallel Cloud Grids, Visual Regression Testing, Self-Healing AI Test Agents & Open-Source Selenium/Playwright Grids*  
+### 🔍 Quick Search & Category Highlights
+- 🌐 **Browser E2E Testing**: [Playwright](https://github.com/microsoft/playwright), [Cypress](https://github.com/cypress-io/cypress), [Selenium](https://github.com/SeleniumHQ/selenium), [WebdriverIO](https://github.com/webdriverio/webdriverio), [Puppeteer](https://github.com/puppeteer/puppeteer)
+- 📱 **Mobile UI Automation**: [Appium](https://github.com/appium/appium), [Maestro](https://github.com/mobile-dev-inc/maestro), [Sauce Labs](https://saucelabs.com), [BrowserStack](https://browserstack.com)
+- ☁️ **Cloud Device Farms & Grids**: [Microsoft Playwright Workspaces](https://microsoft.com), [LambdaTest](https://lambdatest.com), [Selenoid](https://github.com/aerokube/selenoid), [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress)
+- 🤖 **Autonomous AI Agents & Self-Healing**: [Skyvern](https://github.com/Skyvern-AI/skyvern), [Midscene.js](https://github.com/web-infra-dev/midscene), [Tester Army E2E](https://github.com/e2e-inc/e2e), [Testim (Tricentis)](https://testim.io), [mabl](https://mabl.com)
+- 👁️ **Visual Regression & Diffing**: [Applitools Eyes](https://applitools.com), [BackstopJS](https://github.com/garris/BackstopJS), [Rainforest QA](https://rainforestqa.com)
 
-**Last updated: November 2026**
+---
 
+This curated repository tracks notable **SaaS platforms** and **open-source projects** in the **End-to-End (E2E) Testing, QA Engineering, and Test Automation** ecosystem. These solutions empower engineering teams, SDETs, and DevOps professionals to execute cross-browser and mobile user-journey verification, orchestrate scalable Kubernetes browser grids, detect visual regressions with multimodal AI, run parallel test suites in CI/CD pipelines, and prevent production regressions with zero flakiness.
 
+🚀 **Open-Source Freedom vs. Enterprise Clouds**: Whether you require fully managed enterprise cloud device farms (such as BrowserStack or Sauce Labs) or self-hosted, license-free test runners and Dockerized browser clusters (`Playwright`, `Selenium Grid`, `Selenoid`, `Maestro`), this catalog provides actionable, transparent comparisons including starting pricing tiers, real free tier quotas, and GitHub popularity metrics.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **End-to-End (E2E) Testing & QA Automation Frameworks**. These tools power cross-browser and mobile end-to-end test execution, self-hosted Kubernetes browser grids, AI-assisted visual regression testing, no-code/low-code test recording, synthetic API/UI monitoring, and CI/CD test sharding for QA engineers, SDETs, and full-stack developers.
+🤝 **Contributions Welcome**: We welcome additions and corrections! Feel free to open a pull request or issue to add frameworks, update tier limits, or share newly released tools.
 
-
-
-**Examples** include BrowserStack, Sauce Labs, Playwright Cloud (Microsoft Azure Playwright Workspaces), Testim (Tricentis), LambdaTest, Applitools, Cypress Cloud, mabl, Rainforest QA, and Selenium Grid (Hosted/Cloud Providers) (the category leaders).
-
-
-
-**🚀 Open-source emphasis**: This section is heavily expanded with every major active project for E2E browser/mobile automation frameworks (`Playwright`, `Cypress`, `Selenium`, `WebdriverIO`, `Puppeteer`, `Appium`, `Maestro`), self-hosted cloud grid orchestration (`Selenium Grid`, `Moon`, `Selenoid`, `Currents / Sorry-Cypress`), visual diffing (`BackstopJS`, `Lost Pixel`, `Reg-Suit`), and AI-driven E2E agents (`tester-army/e2e`, `Midscene.js`, `Skyvern`) — ideal for engineering teams seeking zero per-minute cloud testing lock-in.
-
-
-
-🤝 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
+---
 
 ## 📑 Table of Contents
 
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-
-- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
-
+- [☁️ SaaS / Hosted Platforms](#️-saashosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#️-how-to-contribute)
-
+- [📈 Star History](#-star-history)
+- [💖 Support & Thank You](#-support--thank-you)
 - [⚠️ Disclaimer](#️-disclaimer)
 
-- [💖 Support & Thank You](#-support--thank-you)
+---
 
 
 
@@ -129,3 +113,40 @@ The global Software Testing & QA Automation market is valued at approximately **
 | **[BackstopJS (`garris/BackstopJS`)](https://github.com/garris/BackstopJS)** | [![BackstopJS Stars](https://img.shields.io/github/stars/garris/BackstopJS?style=social&color=white)](https://github.com/garris/BackstopJS/stargazers) | **MIT** ($0 self-hosted) | **100% Free & Open-Source** (Unlimited local visual regression diffing across responsive DOM viewports) | Config-driven visual regression testing tool catching CSS and layout rendering bugs via automated screenshot diffing. |
 | **[Sorry Cypress (`sorry-cypress/sorry-cypress`)](https://github.com/sorry-cypress/sorry-cypress)** | [![Sorry Cypress Stars](https://img.shields.io/github/stars/sorry-cypress/sorry-cypress?style=social&color=white)](https://github.com/sorry-cypress/sorry-cypress/stargazers) | **MIT** ($0 self-hosted) | **100% Free & Open-Source** (Self-hosted Kubernetes/Docker Cypress orchestration without cloud limits) | Open-source, self-hosted alternative to Cypress Cloud providing parallelization, test recording, and execution history. |
 | **[Selenoid (`aerokube/selenoid`)](https://github.com/aerokube/selenoid)** | [![Selenoid Stars](https://img.shields.io/github/stars/aerokube/selenoid?style=social&color=white)](https://github.com/aerokube/selenoid/stargazers) | **Apache-2.0** ($0 self-hosted) | **100% Free & Open-Source** (Lightweight Golang daemon running isolated browser sessions inside Docker containers) | Fast and lightweight Selenium Grid implementation that starts browser instances in Docker containers on demand. |
+
+---
+
+## 🛠️ How to Contribute
+
+Contributions are welcome and greatly appreciated! 🚀
+
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a branch** for your feature or addition (`git checkout -b feature/add-new-framework`).
+3. 📝 **Add your entries** adhering to the table format (include official links, pricing details, and free tier limits).
+4. 🧪 **Ensure links and markdown tables render cleanly**.
+5. 🚀 **Commit & push** your changes (`git commit -m 'Add new framework'` and `git push origin feature/add-new-framework`).
+6. 📬 **Open a Pull Request** with a brief summary of the added project.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Thank You
+
+A huge thank you to everyone in the open-source and QA automation community for maintaining these frameworks, building resilient cloud grids, and advancing automated software quality! 🎉
+
+If you find this repository helpful, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** with fellow QA engineers, SDETs, and testing teams.
+- ☕ **Buy a coffee & sponsor**: Support ongoing maintenance and curated updates directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+*All product names, logos, brands, trademarks, and registered trademarks belong to their respective owners. Pricing information, free-tier limits, and company valuations reflect publicly available data as of November 2026 and are subject to change by their respective vendors.*
+
