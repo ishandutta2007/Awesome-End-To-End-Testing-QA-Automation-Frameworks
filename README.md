@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-End-To-End-Testing-QA-Automation-Frameworks?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -96,9 +96,9 @@ The global Software Testing & QA Automation market is valued at approximately **
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub star count.*
+*Sorted descending by GitHub Stars_Count.*
 
-| Project | Stars | License / Hosting Cost | Free Tier / Self-Hosted Limit | Description |
+| Project | GitHub_Stars | License / Hosting Cost | Free Tier / Self-Hosted Limit | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Playwright (`microsoft/playwright`)](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | **Apache-2.0** ($0 self-hosted) | **100% Free & Open-Source** (Unlimited multi-browser automation for Chromium, Firefox, and WebKit on Windows, Linux, and macOS) | Modern end-to-end testing library providing resilient auto-waiting, network interception, tracing, and multi-tab automation across web browsers. |
 | **[Puppeteer (`puppeteer/puppeteer`)](https://github.com/puppeteer/puppeteer)** | [![Puppeteer Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) | **Apache-2.0** ($0 self-hosted) | **100% Free & Open-Source** (Unlimited headless Chrome/Firefox control and automated screen capture) | Node.js library offering high-level API control over Chrome and Firefox over the Chrome DevTools Protocol (CDP) and WebDriver BiDi. |
